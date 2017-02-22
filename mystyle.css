@@ -5,7 +5,7 @@ background-color: black;
 .headers {
  color: antiquewhite;
  box-sizing: padding-box;
- border: 2px solid white;
+ border: 2px dotted antiquewhite;
  margin: 20px;
  width: 300px;
 }
