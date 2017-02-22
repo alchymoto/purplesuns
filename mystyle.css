@@ -4,6 +4,10 @@ background-color: black;
 
 .headers {
  color: antiquewhite;
+ box-sizing: padding-box;
+ border: 2px solid white;
+ margin: 20px;
+ width: 300px;
 }
 
 .para {
